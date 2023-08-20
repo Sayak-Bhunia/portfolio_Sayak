@@ -29,7 +29,7 @@ header-item2-link: /portfolio_Sayak/about
 header-item3-link: /portfolio_Sayak/blogs
 header-item4-link: /portfolio_Sayak/projects
 cta-item2: Resume
-cta-item2-link: /YOUR_REPOSITORY_NAME/resume
+cta-item2-link: /Sayak-Bhunia/resume
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -196,7 +196,7 @@ link: mailto:sbhunia2903@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: https://linktr.ee/Sayak_kun
 isNewTab: true
 
 -- end: ftd.row
